@@ -21,3 +21,12 @@ como rodar o projeto
    npx expo start
    ```
 3. Leia o QR Code com o aplicativo Expo Go no seu celular, ou aperte `a` para rodar no emulador Android e `i` para o emulador de iOS.
+
+## prints do app
+
+<p align="center">
+  <img src="prints/tela%20inicial.jpeg" width="200" />
+  <img src="prints/listaA.jpeg" width="200" />
+  <img src="prints/ListaC.jpeg" width="200" />
+  <img src="prints/listaF.jpeg" width="200" />
+</p>
