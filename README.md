@@ -16,13 +16,13 @@ eu usei a API pública do **Cartola FC** (da Globo) para buscar os dados dos clu
 
 como rodar o projeto
 1. abra o terminal na pasta do projeto e instale as dependências:
-   ```bash
+   `bash
    npm install
-   ```
+   `
 2. inicie o servidor do Expo:
-   ```bash
+   `bash
    npx expo start
-   ```
+   `
 3. leia o QR Code com o aplicativo Expo Go no seu celular, ou aperte `a` para rodar no emulador Android e `i` para o emulador de iOS e `w`para abrir na web.
 
 ## prints do app
