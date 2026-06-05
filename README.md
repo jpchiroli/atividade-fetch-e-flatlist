@@ -1,3 +1,6 @@
+materia: aplicações moveis
+professor: Brendo Vale
+
 projeto flatList - times do brasileirão
 
 Este é um projeto simples onde eu criei um aplicativo para listar os times de futebol usando uma API pública. o objetivo foi praticar o uso de listas (`FlatList`) e consumo de APIs (`fetch`) no React Native.
