@@ -15,15 +15,15 @@ eu usei a API pública do **Cartola FC** (da Globo) para buscar os dados dos clu
 - **Endpoint usado**: `https://api.cartola.globo.com/clubes`
 
 como rodar o projeto
-1. Abra o terminal na pasta do projeto e instale as dependências:
+1. abra o terminal na pasta do projeto e instale as dependências:
    ```bash
    npm install
    ```
-2. Inicie o servidor do Expo:
+2. inicie o servidor do Expo:
    ```bash
    npx expo start
    ```
-3. Leia o QR Code com o aplicativo Expo Go no seu celular, ou aperte `a` para rodar no emulador Android e `i` para o emulador de iOS.
+3. leia o QR Code com o aplicativo Expo Go no seu celular, ou aperte `a` para rodar no emulador Android e `i` para o emulador de iOS e `w`para abrir na web.
 
 ## prints do app
 
